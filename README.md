@@ -1,2 +1,2 @@
-# Marine_Drive_Systems_Using_ML
-Seaside Transportation and findout the coefficient and speed of ship using Machine learning
+# Predictive Maintenance and Condition-Based Monitoring (CBM) for Maritime Drive Systems
+This project develops a machine learning-based system for predictive maintenance and condition-based monitoring of maritime drive systems. Utilizing advanced algorithms like XGBoost and LightGBM, the system aims to enhance operational efficiency and reliability by predicting potential failures and monitoring system conditions in real-time.
